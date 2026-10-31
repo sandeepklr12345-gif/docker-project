@@ -30,3 +30,7 @@ Thumbs.db
 
 # Docker overrides
 docker-compose.override.yml
+
+# Editor swap files
+*.swp
+*.swo

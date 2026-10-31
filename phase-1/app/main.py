@@ -4,7 +4,7 @@ from fastapi import FastAPI
 
 app = FastAPI(
     title="Docker Mastery Demo API",
-    description="A tiny FastAPI service used to demonstrate Docker across three maturity phases.",
+    description="A tiny FastAPI service used to demonstrate Docker across two learning phases.",
     version="1.0.0",
 )
 
